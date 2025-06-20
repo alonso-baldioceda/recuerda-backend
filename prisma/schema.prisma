@@ -1,0 +1,58 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Bill {
+  id          Int        @id @default(autoincrement())
+  fileNumber  String
+  description String
+  status      BillStatus
+  createdAt   DateTime   @default(now())
+}
+
+model Province {
+  id             Int              @id
+  name           String
+  representatives Representative[]
+}
+
+enum BillStatus {
+  ZERO @map("0")
+  ONE  @map("1")
+}
+
+model Representative {
+  id         Int                  @id
+  name       String
+  avatar     String
+  fuel       Boolean
+  provinceId Int
+  province   Province             @relation(fields: [provinceId], references: [id])
+  partyAffiliations RepresentativeParty[]
+}
+
+model Party {
+  id           Int                @id
+  name         String
+  flag         String
+  description  String?  @db.Text
+  affiliations RepresentativeParty[]
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+model RepresentativeParty {
+  id               Int             @id @default(autoincrement())
+  representativeId Int
+  partyId          Int
+  from             DateTime
+  to               DateTime
+
+  representative   Representative  @relation(fields: [representativeId], references: [id])
+  party            Party           @relation(fields: [partyId], references: [id])
+}
