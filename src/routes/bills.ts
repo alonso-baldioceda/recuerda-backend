@@ -1,12 +1,15 @@
 import express from "express";
-import { PrismaClient } from "@prisma/client";
+import summary from "./bills/summary";
+import byFileNumberRouter from "./bills/by-file-number";
 
 const router = express.Router();
-const prisma = new PrismaClient();
 
-router.get("/", async (req, res) => {
-  const bills = await prisma.bill.findMany();
-  res.json(bills);
+router.get("/", (req, res) => {
+  console.log("worked");
+  res.json({ message: "worked" });
 });
+
+router.use("/summary", summary);
+router.use("/by-file-number", byFileNumberRouter);
 
 export default router;

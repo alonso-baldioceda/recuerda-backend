@@ -8,22 +8,50 @@ datasource db {
 }
 
 model Bill {
-  id          Int        @id @default(autoincrement())
+  id          Int          @id @default(autoincrement())
   fileNumber  String
   description String
   status      BillStatus
-  createdAt   DateTime   @default(now())
+  createdAt   DateTime     @default(now())
+
+  details     BillDetail[]
+  votes       Vote[]
+}
+
+model BillDetail {
+  id        Int     @id @default(autoincrement())
+  billId    Int
+  bill      Bill    @relation(fields: [billId], references: [id])
+  type      String
+  content   String  @db.Text
+  className String?
+}
+
+model Vote {
+  id               Int             @id @default(autoincrement())
+  representativeId Int
+  billId           Int
+  type             VoteType
+
+  representative   Representative @relation(fields: [representativeId], references: [id])
+  bill             Bill           @relation(fields: [billId], references: [id])
+}
+
+enum VoteType {
+  IN_FAVOR
+  AGAINST
+  ABSENT
+}
+
+enum BillStatus {
+  ZERO @map("0")
+  ONE  @map("1")
 }
 
 model Province {
   id             Int              @id
   name           String
   representatives Representative[]
-}
-
-enum BillStatus {
-  ZERO @map("0")
-  ONE  @map("1")
 }
 
 model Representative {
@@ -34,6 +62,7 @@ model Representative {
   provinceId Int
   province   Province             @relation(fields: [provinceId], references: [id])
   partyAffiliations RepresentativeParty[]
+  votes      Vote[]
 }
 
 model Party {
@@ -42,8 +71,8 @@ model Party {
   flag         String
   description  String?  @db.Text
   affiliations RepresentativeParty[]
-  createdAt   DateTime  @default(now())
-  updatedAt   DateTime  @updatedAt
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
 }
 
 model RepresentativeParty {
