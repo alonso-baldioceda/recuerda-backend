@@ -1,9 +1,13 @@
-import { PrismaClient } from "@prisma/client";
+import { PrismaClient, BillStatus } from "@prisma/client";
+import billsData from "./../migrations/data/bills.json";
 
 const prisma = new PrismaClient();
 
 async function main() {
   // 🧹 Borrar todo en orden inverso a relaciones para evitar errores de FK
+  await prisma.vote.deleteMany({});
+  await prisma.billDetail.deleteMany({});
+  await prisma.bill.deleteMany({});
   await prisma.representativeParty.deleteMany({});
   await prisma.representative.deleteMany({});
   await prisma.party.deleteMany({});
@@ -925,6 +929,57 @@ async function main() {
         },
       },
     });
+  }
+
+  // Proyectos de ley y votos
+  for (const bill of billsData) {
+    // Ajusta el status según tu enum si es necesario
+    let status: BillStatus;
+    if (bill.status === "approved") status = BillStatus.APPROVED;
+    else if (bill.status === "rejected") status = BillStatus.REJECTED;
+    else status = BillStatus.PENDING;
+
+    const createdBill = await prisma.bill.create({
+      data: {
+        fileNumber: bill.fileNumber,
+        description: bill.description,
+        status,
+        createdAt: bill.createdAt ? new Date(bill.createdAt) : new Date(),
+        votedAt: bill.votedAt ? new Date(bill.votedAt) : new Date(),
+        details: bill.details
+          ? {
+              create: bill.details.map((d: any) => ({
+                type: d.type,
+                content: d.content,
+                className: d.className,
+              })),
+            }
+          : undefined,
+      },
+    });
+
+    // Votos
+    const voteTypes = [
+      { key: "inFavor", type: "IN_FAVOR" },
+      { key: "against", type: "AGAINST" },
+      { key: "absent", type: "ABSENT" },
+    ];
+
+    if (bill.votes) {
+      for (const { key, type } of voteTypes) {
+        if (Array.isArray(bill.votes[key as keyof typeof bill.votes])) {
+          for (const repId of bill.votes[key as keyof typeof bill.votes]) {
+            await prisma.vote.create({
+              data: {
+                billId: createdBill.id,
+                representativeId: repId,
+                type: type as any, // or as Prisma.VoteType if you import the enum
+              },
+            });
+          }
+        }
+      }
+    }
   }
 }
 

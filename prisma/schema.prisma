@@ -13,6 +13,7 @@ model Bill {
   description String
   status      BillStatus
   createdAt   DateTime     @default(now())
+  votedAt     DateTime?
 
   details     BillDetail[]
   votes       Vote[]
@@ -44,8 +45,9 @@ enum VoteType {
 }
 
 enum BillStatus {
-  ZERO @map("0")
-  ONE  @map("1")
+  PENDING
+  APPROVED
+  REJECTED
 }
 
 model Province {
