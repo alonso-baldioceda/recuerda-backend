@@ -1,42 +1,42 @@
 [
   {
-    "id": 1,
+    "id": 999,
     "name": "Independiente",
     "flag": "ind.png",
     "description": ""
   },
   {
-    "id": 2,
+    "id": 1,
     "name": "Partido Liberación Nacional",
     "flag": "pln.png",
     "description": "El más antiguo de los partidos políticos actuales. Fue fundado en 1952 y un año después participa y gana sus primeros comicios electorales. Se ha mantenido como agrupación política permanente desde entonces, obteniendo en ocho oportunidades el triunfo electoral. Su fundamento ideológico es la social democracia, que propugna la obtención de reformas sociales por medios parlamentarios. En su carta fundamental se propone construir una democracia basada en la justicia social y en la libertad política, consagra el derecho a la propiedad, educación, salud y seguridad social. Liberación Nacional es un partido democrático, popular, independiente, doctrinario y permanente. Se fundamenta en el ejercicio efectivo de la soberanía popular y el respeto a la dignidad del ser humano."
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "Partido Unidad Social Cristiana",
     "flag": "pusc.png",
     "description": "Ha participado en doce elecciones nacionales, obteniendo el triunfo cuatro veces. Como Coalición Unidad llevó a la Presidencia a Rodrigo Carazo Odio en 1978 y presentó a Rafael Ángel Calderón Fournier como candidato presidencial en 1982. Lograron la Presidencia de la República en 1990 con Calderón Fournier, en 1998 con Miguel Ángel Rodríguez Echeverría y en 2002 con Abel Pacheco de la Espriella. Sus principios ideológicos se basan en el socialcristianismo, que busca la transformación social y económica del país y el desarrollo del ser humano basado en las doctrinas sociales de la Iglesia Católica."
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Partido Progreso Social Democrático",
     "flag": "ppsd.png",
     "description": "Comparten en general la propuesta ideológica de la socialdemocracia moderna, en la cual el concurso del sistema capitalista y las demandas de sociedades más justas conducen la forma de organización y el modo en que se toman las decisiones. Conciben que el estado debe abordar los retos que atañen a la justicia social, el crecimiento económico inclusivo, al bienestar de las personas, a la reducción de la desigualdad en el acceso y disfrute de los derechos. Un vigoroso sector empresarial, sector cooperativo y empresas asociativas como clave para la producción de bienes y servicios, para la generación de riqueza, la innovación, la sana competitividad y la democratización de la economía. Resaltan como objetivos: elevar las capacidades individuales, colectivas, institucionales y empresariales a favor de sumar a la productividad y eficiencia que generen calidad de vida de los costarricenses. Considerar la educación, la salud, el trabajo y la equidad como generadores de la paz social y motores del desarrollo económico sostenible. Abrir oportunidades de progreso a las comunidades y asociaciones por medio de una participación activa en el uso de los recursos políticos, económicos, sociales y culturales. Generar confianza en los liderazgos locales por medio de un constante acercamiento a los territorios, la idoneidad y el respeto a las personas que construyen las propuestas y conforman la estructura partidaria con el fin de dar lo mejor al país."
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Partido Nueva República",
     "flag": "pnr.png",
     "description": "El Partido se establece como una fuerza política de carácter ideológico, doctrinal y permanente. Su ideología fundamental es el pensamiento clásico republicano. Estima que la República es el sistema de gobierno idóneo para lograr el mayor desarrollo individual, político, económico y social de una nación. La finalidad esencial del Partido es dar expresión a los principios de la República como forma de gobierno, así como promoverlos en el debate político nacional e implementarlos desde el poder. Concibe el sistema republicano como aquel que se rige por el imperio de la ley, la división y limitación del poder político y el principio de igualdad ante la ley. Reconoce la democracia como elemento esencial para la legitimidad de la República y para la expresión de la voluntad popular. Proclama que la finalidad última de la República es satisfacer el interés general, y plantea que el uso del poder político para perjudicar o privilegiar sectores o individuos específicos es inaceptable. La doctrina política del Partido, así como sus medios de acción, se inspiran en los valores y principios más arraigados de la civilización judeocristiana, en el pensamiento republicano democrático, el nacionalismo cívico y el más profundo respeto por la vida y la dignidad humana."
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Partido Frente Amplio",
     "flag": "pfa.png",
     "description": "Un partido democrático que promete respetar el orden constitucional, de acuerdo con el sistema de democracia representativa y defiende las instituciones del Estado Social de Derecho. Se instala en la lucha por una democracia avanzada en todos los campos, incluyendo la democracia económica y cultural. Promueve formas de democracia más participativas y directas. Se declara también progresista, como una fuerza transformadora, una alternativa real al modelo neoliberal concentrador y excluyente. Patriótico, defiende el interés nacional frente a la globalización de signo neoliberal. Feminista, rechaza el sistema de dominación sexista y patriarcal. Promueve la igualdad de género y la democracia paritaria."
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Partido Liberal Progresista",
     "flag": "plp.png",
     "description": "Los fundamentos de la libertad consisten en el respeto a la autonomía del individuo, a su libertad de elegir y asumir responsabilidades por sus decisiones, a la propiedad privada y al Estado de Derecho. La libertad, en todos sus ámbitos, es la clave para el progreso social y económico de Costa Rica y es la ruta a seguir para alcanzar un país abierto, moderno y tolerante. El libre mercado es el mejor mecanismo que existe para producir riqueza y fomentar el progreso material de una nación, para el beneficio de todos sus habitantes. La función primordial del Estado es garantizar el cumplimiento de las normas que permitan alcanzar fines, sin caer en regulación excesiva que restringe la libertad, asfixia el emprendimiento, distorsiona los incentivos y engrosa una burocracia paralizante. Otro principios fundamentales incluyen la dignidad y autonomía del individuo, la economía de mercado, un Estado pequeño y eficiente, una sociedad tolerante, libre de discriminación y de privilegios creados por ley, la separación entre religión y Estado, el respeto a la propiedad privada y al Estado de Derecho."

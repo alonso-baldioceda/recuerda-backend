@@ -65,6 +65,7 @@ model Representative {
   province   Province             @relation(fields: [provinceId], references: [id])
   partyAffiliations RepresentativeParty[]
   votes      Vote[]
+  biography  BiographySection[]
 }
 
 model Party {
@@ -86,4 +87,22 @@ model RepresentativeParty {
 
   representative   Representative  @relation(fields: [representativeId], references: [id])
   party            Party           @relation(fields: [partyId], references: [id])
+}
+
+model BiographySection {
+  id               Int                @id @default(autoincrement())
+  representativeId Int
+  heading          String             // Título/sección (puede ser h2, h3, etc.)
+  paragraphs       BiographyParagraph[] // Relación con los párrafos
+
+  representative   Representative      @relation(fields: [representativeId], references: [id])
+}
+
+model BiographyParagraph {
+  id                 Int                @id @default(autoincrement())
+  biographySectionId  Int
+  content             String  @db.Text  // Texto del párrafo
+  className           String?           // Estilos CSS opcionales
+
+  biographySection    BiographySection  @relation(fields: [biographySectionId], references: [id])
 }

@@ -1,0 +1,1326 @@
+[
+  {
+    "representativeId": 1,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Rodrigo Arias Sánchez es abogado y político costarricense con más de 30 años de experiencia en el sector público.",
+            "className": "text-base mb-2"
+          },
+          {
+            "content": "Ha ocupado cargos como Ministro de la Presidencia y diputado en varias legislaturas.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Graduado en Derecho por la Universidad de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Ha impulsado proyectos de ley enfocados en la educación y el desarrollo social.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 2,
+    "biography": [
+      {
+        "heading": "Formación académica",
+        "paragraphs": [
+          {
+            "content": "Andrea Álvarez Marín es ingeniera ambiental y máster en gestión pública.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Ha trabajado en proyectos de protección ambiental y desarrollo sostenible.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 3,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Danny Vargas Serrano es economista y consultor en políticas públicas.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido iniciativas para el crecimiento económico y la inclusión social.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 4,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Carolina Delgado Ramírez es especialista en políticas públicas y gestión social.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Licenciada en Ciencias Políticas por la Universidad Nacional.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 5,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Gilberth Jiménez Siles ha sido diputado y líder comunitario en San José.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Ha trabajado en proyectos de seguridad ciudadana y desarrollo local.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 6,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Pilar Cisneros Gallo es periodista y defensora de la transparencia gubernamental.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha impulsado leyes para fortalecer la libertad de prensa y la rendición de cuentas.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 7,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Waldo Agüero Sanabria es ingeniero civil y promotor de infraestructura pública.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Graduado en Ingeniería Civil por el Instituto Tecnológico de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 8,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Luz Mary Alpízar Loaiza ha trabajado en proyectos de equidad de género y educación.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Defensora de los derechos de las mujeres y la inclusión social.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 9,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Manuel Esteban Morales Díaz es abogado y consultor en derechos humanos.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido leyes para la protección de los derechos civiles.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 10,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Eli Feinzaig Mintzs es economista y emprendedor en el sector tecnológico.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Máster en Economía por la Universidad de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 11,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Kattia Cambronero Aguiluz ha trabajado en proyectos de innovación educativa.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Defensora de la educación inclusiva y la tecnología en las aulas.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 12,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Cynthia Córdoba Serrano es abogada y activista por los derechos de la niñez.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha impulsado leyes para la protección de menores y familias.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 13,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Sofía Alejandra Guillén Pérez es socióloga y promotora de derechos humanos.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Licenciada en Sociología por la Universidad Nacional.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 14,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Andrés Ariel Robles Barrantes ha trabajado en proyectos de desarrollo rural.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Promotor de la agricultura sostenible y el bienestar comunitario.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 15,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Rocío Alfaro Molina es psicóloga y defensora de la salud mental.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido leyes para mejorar la atención psicológica en el país.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 16,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Fabricio Alvarado Muñoz es periodista y músico, con amplia experiencia en medios.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Licenciado en Comunicación por la Universidad de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 17,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Carlos Felipe García Molina ha trabajado en proyectos de infraestructura y transporte.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Defensor de la movilidad urbana y el acceso a servicios públicos.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 18,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Vanessa De Paul Castro Mora es abogada y promotora de derechos laborales.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha impulsado leyes para la protección de trabajadores y empleadores.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 19,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Gloria Navas Montero es abogada penalista y defensora de los derechos humanos.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Máster en Derecho Penal por la Universidad de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 20,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Dinorah Barquero Barquero ha trabajado en proyectos de salud pública y bienestar social.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Defensora de la atención médica universal y el acceso a medicamentos.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 21,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "José Joaquín Hernández Rojas es ingeniero agrónomo y promotor de la agricultura sostenible.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha impulsado leyes para el desarrollo rural y el apoyo a productores.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 22,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Monserrat Ruiz Guevara es educadora y promotora de la inclusión escolar.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Licenciada en Educación por la Universidad Nacional.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 23,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Jorge Antonio Rojas López ha trabajado en proyectos de desarrollo comunitario.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Promotor de la participación ciudadana y el fortalecimiento local.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 24,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "María Daniela Rojas Salas es abogada y defensora de los derechos de la mujer.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido leyes para la igualdad de género y la protección de víctimas.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 25,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Leslye Rubén Bojorges León es ingeniero industrial y promotor de la innovación tecnológica.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Graduado en Ingeniería Industrial por el Instituto Tecnológico de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 26,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Olga Lidia Morera Arrieta ha trabajado en proyectos de salud y bienestar social.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Defensora de la atención médica universal y el acceso a servicios básicos.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 27,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "José Pablo Sibaja Jiménez es abogado y promotor de la justicia social.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha impulsado leyes para la protección de los derechos civiles.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 28,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Luis Diego Vargas Rodríguez es economista y consultor en desarrollo sostenible.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Máster en Economía por la Universidad de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 29,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Priscilla Vindas Salazar ha trabajado en proyectos de equidad de género y educación.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Defensora de los derechos de las mujeres y la inclusión social.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 30,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "María Marta Padilla Bonilla es abogada y activista por los derechos humanos.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido leyes para la protección de los derechos civiles.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 31,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Paulina María Ramírez Portuguez es economista y promotora de la inclusión financiera.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Licenciada en Economía por la Universidad Nacional.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 32,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Óscar Izquierdo Sandí ha trabajado en proyectos de desarrollo rural y agrícola.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Promotor de la agricultura sostenible y el bienestar comunitario.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 33,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Rosaura Méndez Gamboa es educadora y defensora de la educación inclusiva.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido leyes para mejorar la calidad educativa.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 34,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Antonio José Ortega Gutiérrez es abogado y promotor de la justicia social.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Licenciado en Derecho por la Universidad de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 35,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Alejandro José Pacheco Castro ha trabajado en proyectos de infraestructura y transporte.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Defensor de la movilidad urbana y el acceso a servicios públicos.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 36,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Paola Nájera Abarca es psicóloga y defensora de la salud mental.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido leyes para mejorar la atención psicológica en el país.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 37,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Johana Obando Bonilla es ingeniera ambiental y promotora de la sostenibilidad.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Graduada en Ingeniería Ambiental por el Instituto Tecnológico de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 38,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Kattia Rivera Soto ha trabajado en proyectos de equidad de género y educación.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Defensora de los derechos de las mujeres y la inclusión social.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 39,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Pedro Rojas Guzmán es abogado y consultor en derechos humanos.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido leyes para la protección de los derechos civiles.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 40,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Ada Gabriela Acuña Castro es educadora y promotora de la inclusión escolar.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Licenciada en Educación por la Universidad Nacional.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 41,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Gilberto Arnoldo Campos Cruz ha trabajado en proyectos de desarrollo comunitario.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Promotor de la participación ciudadana y el fortalecimiento local.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 42,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Johnatan Jesús Acuña Soto es ingeniero agrónomo y promotor de la agricultura sostenible.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha impulsado leyes para el desarrollo rural y el apoyo a productores.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 43,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Rosaura Méndez Gamboa es educadora y defensora de la educación inclusiva.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Licenciada en Educación por la Universidad Nacional.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 44,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Geison Valverde Álvarez ha trabajado en proyectos de desarrollo rural y agrícola.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Promotor de la agricultura sostenible y el bienestar comunitario.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 45,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Katherine Andrea Moreira Brown es abogada y defensora de los derechos de la mujer.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido leyes para la igualdad de género y la protección de víctimas.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 46,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Yonder Andrey Salas Durán es ingeniero industrial y promotor de la innovación tecnológica.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Graduado en Ingeniería Industrial por el Instituto Tecnológico de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 47,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Rosalía Brown Young ha trabajado en proyectos de salud y bienestar social.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Defensora de la atención médica universal y el acceso a servicios básicos.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 48,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "María Marta Carballo Arce es abogada y promotora de la justicia social.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha impulsado leyes para la protección de los derechos civiles.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 49,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "José Francisco Nicolás Alvarado es economista y consultor en desarrollo sostenible.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Máster en Economía por la Universidad de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 50,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Sonia Rojas Méndez ha trabajado en proyectos de equidad de género y educación.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Defensora de los derechos de las mujeres y la inclusión social.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 51,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "David Lorenzo Segura Gamboa es abogado y consultor en derechos humanos.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido leyes para la protección de los derechos civiles.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 52,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Carlos Andrés Robles Obando es ingeniero civil y promotor de infraestructura pública.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Graduado en Ingeniería Civil por el Instituto Tecnológico de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 53,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Alexander Barrantes Chacón ha trabajado en proyectos de desarrollo rural y agrícola.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Promotor de la agricultura sostenible y el bienestar comunitario.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 54,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Luis Fernando Mendoza Jiménez es educador y defensor de la educación inclusiva.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido leyes para mejorar la calidad educativa.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 55,
+    "biography": [
+      {
+        "heading": "Trayectoria profesional",
+        "paragraphs": [
+          {
+            "content": "Alejandra Larios Trejos es abogada y activista por los derechos humanos.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Educación",
+        "paragraphs": [
+          {
+            "content": "Licenciada en Derecho por la Universidad de Costa Rica.",
+            "className": "italic text-sm"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 56,
+    "biography": [
+      {
+        "heading": "Experiencia política",
+        "paragraphs": [
+          {
+            "content": "Melina Ajoy Palma ha trabajado en proyectos de equidad de género y educación.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Compromiso social",
+        "paragraphs": [
+          {
+            "content": "Defensora de los derechos de las mujeres y la inclusión social.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "representativeId": 57,
+    "biography": [
+      {
+        "heading": "Perfil profesional",
+        "paragraphs": [
+          {
+            "content": "Daniel Gerardo Vargas Quirós es abogado y consultor en derechos humanos.",
+            "className": "text-base mb-2"
+          }
+        ]
+      },
+      {
+        "heading": "Labor legislativa",
+        "paragraphs": [
+          {
+            "content": "Ha promovido leyes para la protección de los derechos civiles.",
+            "className": "text-base"
+          }
+        ]
+      }
+    ]
+  }
+]

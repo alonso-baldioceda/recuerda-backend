@@ -1,0 +1,815 @@
+[
+  {
+    "id": 1,
+    "name": "Rodrigo Arias Sánchez",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": false,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Andrea Álvarez Marín",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Danny Vargas Serrano",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Carolina Delgado Ramírez",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Gilberth Jiménez Siles",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Pilar Cisneros Gallo",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 3,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Waldo Agüero Sanabria",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 3,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Luz Mary Alpízar Loaiza",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 3,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Manuel Esteban Morales Díaz",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 3,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Eli Feinzaig Mintzs",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 6,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Kattia Cambronero Aguiluz",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 6,
+        "from": "2018-05-01",
+        "to": "2022-05-01"
+      },
+      {
+        "partyId": 999,
+        "from": "2022-05-02",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Cynthia Córdoba Serrano",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 6,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Sofía Alejandra Guillén Pérez",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 5,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Andrés Ariel Robles Barrantes",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 5,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Rocío Alfaro Molina",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 5,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Fabricio Alvarado Muñoz",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 4,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Carlos Felipe García Molina",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 2,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Vanessa De Paul Castro Mora",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 2,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Gloria Navas Montero",
+    "province": 1,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 4,
+        "from": "2018-05-01",
+        "to": "2022-05-01"
+      },
+      {
+        "partyId": 999,
+        "from": "2022-05-02",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Dinorah Barquero Barquero",
+    "province": 2,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "José Joaquín Hernández Rojas",
+    "province": 2,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Monserrat Ruiz Guevara",
+    "province": 2,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Jorge Antonio Rojas López",
+    "province": 2,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 3,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "María Daniela Rojas Salas",
+    "province": 2,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 2,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Leslye Rubén Bojorges León",
+    "province": 2,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 2,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Olga Lidia Morera Arrieta",
+    "province": 2,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 4,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "José Pablo Sibaja Jiménez",
+    "province": 2,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 4,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Luis Diego Vargas Rodríguez",
+    "province": 2,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 6,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Priscilla Vindas Salazar",
+    "province": 2,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 5,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "María Marta Padilla Bonilla",
+    "province": 2,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 3,
+        "from": "2018-05-01",
+        "to": "2022-05-01"
+      },
+      {
+        "partyId": 999,
+        "from": "2022-05-02",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Paulina María Ramírez Portuguez",
+    "province": 3,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Óscar Izquierdo Sandí",
+    "province": 3,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Rosaura Méndez Gamboa",
+    "province": 3,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Antonio José Ortega Gutiérrez",
+    "province": 3,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 5,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Alejandro José Pacheco Castro",
+    "province": 3,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 2,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Paola Nájera Abarca",
+    "province": 3,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 3,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Johana Obando Bonilla",
+    "province": 3,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 6,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Kattia Rivera Soto",
+    "province": 4,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Pedro Rojas Guzmán",
+    "province": 4,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Ada Gabriela Acuña Castro",
+    "province": 4,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 3,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Gilberto Arnoldo Campos Cruz",
+    "province": 4,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 6,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Johnatan Jesús Acuña Soto",
+    "province": 4,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 5,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Rosaura Méndez Gamboa",
+    "province": 4,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 2,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Geison Valverde Álvarez",
+    "province": 5,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Katherine Andrea Moreira Brown",
+    "province": 5,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Yonder Andrey Salas Durán",
+    "province": 5,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 4,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Rosalía Brown Young",
+    "province": 5,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 4,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "María Marta Carballo Arce",
+    "province": 5,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 2,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "José Francisco Nicolás Alvarado",
+    "province": 6,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Sonia Rojas Méndez",
+    "province": 6,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "David Lorenzo Segura Gamboa",
+    "province": 6,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 4,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Carlos Andrés Robles Obando",
+    "province": 6,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 2,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Alexander Barrantes Chacón",
+    "province": 6,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 3,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Luis Fernando Mendoza Jiménez",
+    "province": 7,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Alejandra Larios Trejos",
+    "province": 7,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 1,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Melina Ajoy Palma",
+    "province": 7,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 2,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Daniel Gerardo Vargas Quirós",
+    "province": 7,
+    "avatar": "homer-simpson.avif",
+    "fuel": true,
+    "parties": [
+      {
+        "partyId": 3,
+        "from": "2018-05-01",
+        "to": "2026-05-01"
+      }
+    ]
+  }
+]

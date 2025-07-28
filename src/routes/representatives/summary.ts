@@ -12,7 +12,7 @@ router.get("/", async (req, res) => {
         partyAffiliations: {
           where: {
             to: {
-              gte: new Date(), // partido actual
+              gte: new Date(),
             },
           },
           include: {

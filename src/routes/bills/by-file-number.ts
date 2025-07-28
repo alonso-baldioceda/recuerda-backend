@@ -38,25 +38,46 @@ router.get("/:fileNumber", async (req, res) => {
       return;
     }
 
-    console.log("BILL", bill);
-
-    const votesGrouped = {
-      inFavor: [] as number[],
-      against: [] as number[],
-      absent: [] as number[],
+    type SimplifiedRep = {
+      id: number;
+      name: string;
+      avatar: string;
+      provinceId: number;
+      partyId: number | null;
+    };
+    const votesGrouped: {
+      inFavor: SimplifiedRep[];
+      against: SimplifiedRep[];
+      absent: SimplifiedRep[];
+    } = {
+      inFavor: [],
+      against: [],
+      absent: [],
     };
 
     for (const vote of bill.votes) {
       const rep = vote.representative;
+      const party = rep.partyAffiliations[0]?.party;
+
+      console.log("Processing vote for representative:", rep);
+      const simplifiedRep: SimplifiedRep = {
+        id: rep.id,
+        name: rep.name,
+        avatar: rep.avatar,
+        provinceId: rep.province.id,
+        partyId: party?.id || null,
+      };
 
       if (vote.type === "IN_FAVOR") {
-        votesGrouped.inFavor.push(rep.id);
+        votesGrouped.inFavor.push(simplifiedRep);
       }
+
       if (vote.type === "AGAINST") {
-        votesGrouped.against.push(rep.id);
+        votesGrouped.against.push(simplifiedRep);
       }
+
       if (vote.type === "ABSENT") {
-        votesGrouped.absent.push(rep.id);
+        votesGrouped.absent.push(simplifiedRep);
       }
     }
 
@@ -64,10 +85,10 @@ router.get("/:fileNumber", async (req, res) => {
       id: bill.id,
       fileNumber: bill.fileNumber,
       description: bill.description,
-      details: bill.details,
       status: bill.status,
       createdAt: bill.createdAt,
       votedAt: bill.votedAt,
+      details: bill.details,
       votes: votesGrouped,
     };
 
