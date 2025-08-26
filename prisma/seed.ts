@@ -92,6 +92,8 @@ async function main() {
         status,
         createdAt: bill.createdAt ? new Date(bill.createdAt) : new Date(),
         votedAt: bill.votedAt ? new Date(bill.votedAt) : new Date(),
+        proposerId: bill.proposerId,
+        proposerName: bill.proposerName,
         details: bill.details
           ? {
               create: bill.details.map((d: any) => ({

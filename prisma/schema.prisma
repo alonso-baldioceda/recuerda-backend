@@ -8,15 +8,20 @@ datasource db {
 }
 
 model Bill {
-  id          Int          @id @default(autoincrement())
-  fileNumber  String
-  description String
-  status      BillStatus
-  createdAt   DateTime     @default(now())
-  votedAt     DateTime?
-
-  details     BillDetail[]
-  votes       Vote[]
+  id           Int          @id @default(autoincrement())
+  fileNumber   String
+  description  String
+  status       BillStatus
+  createdAt    DateTime     @default(now())
+  votedAt      DateTime?
+  proposerId   Int?
+  proposerName String?
+  administrationId Int?
+  
+  details      BillDetail[]
+  votes        Vote[]
+  proposer     Representative? @relation(fields: [proposerId], references: [id])
+  administration Administration? @relation(fields: [administrationId], references: [id])
 }
 
 model BillDetail {
@@ -50,6 +55,16 @@ enum BillStatus {
   REJECTED
 }
 
+model Administration {
+  id             Int              @id @default(autoincrement())
+  presidentName  String
+  startDate      DateTime
+  endDate        DateTime?
+  representatives Representative[]
+  bills          Bill[]
+  createdAt      DateTime         @default(now())
+}
+
 model Province {
   id             Int              @id
   name           String
@@ -62,10 +77,13 @@ model Representative {
   avatar     String
   fuel       Boolean
   provinceId Int
+  administrationId Int
   province   Province             @relation(fields: [provinceId], references: [id])
+  administration Administration   @relation(fields: [administrationId], references: [id])
   partyAffiliations RepresentativeParty[]
   votes      Vote[]
   biography  BiographySection[]
+  proposedBills Bill[]
 }
 
 model Party {

@@ -53,6 +53,8 @@ router.get("/", async (req, res) => {
         status: bill.status,
         createdAt: bill.createdAt,
         votedAt: bill.votedAt,
+        proposerId: bill.proposerId,
+        proposerName: bill.proposerName,
         votes: votesGrouped,
       };
     });
